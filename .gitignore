@@ -1,3 +1,7 @@
+#ignore files with certain extensions
 *.exe
 *.jar
 *.o
+
+ignore files inside a certail directory/folder
+/IgnoreExercise
